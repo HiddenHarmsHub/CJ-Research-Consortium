@@ -51,3 +51,7 @@ sidebar_label: Home
 The rest of the page should be written in GitHub markdown.
 
 The website is setup to use auto page titles which means a `<h1>` header will be created using the *title* entry from the header of the file. This means any headers added to the page should start at level 2 with `##`. This setting can be turned off in the config file and if that is done a `<h1>` title can be added to each page with `#`.
+
+### Deployment
+
+Every push to the main branch will trigger a new deployment of the website automatically. If you are doing work that is not ready to be depoyed please ensure you use branches and only merge to main when it is ready to go live.
