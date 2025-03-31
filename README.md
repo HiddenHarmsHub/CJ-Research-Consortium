@@ -48,6 +48,6 @@ sidebar_label: Home
 
 *id* and *title* must be provided. If no *sidebar_label* is provided then the title will also be used in the sidebar. Being able to change this can be useful when you want to have a longer title but a shorter entry in the menu.
 
-The rest of the page should br provided in GitHub markdown.
+The rest of the page should be written in GitHub markdown.
 
 The website is setup to use auto page titles which means a `<h1>` header will be created using the *title* entry from the header of the file. This means any headers added to the page should start at level 2 with `##`. This setting can be turned off in the config file and if that is done a `<h1>` title can be added to each page with `#`.
