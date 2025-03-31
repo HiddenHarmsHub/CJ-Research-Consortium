@@ -5,6 +5,7 @@ This repository contains the files that run the [Comparative Judgement Research 
 
 ## Contributing
 
+This is a quick guide to editing the content of the website.
 
 ### The _config.yml file
 
@@ -12,7 +13,7 @@ The config file provides the link to the Jekyll template used to render the page
 
 The key thing in the config file is the *sidebar* section which lists all the pages to be linked from the menu. 
 
-Each page is linked using the id in the header (see next section). To make expanding menus you can use the label/children keys as is shown in the example for Meetings.
+Each page is linked using the id in the header (see next section). To make expanding menus you can use the label/children keys as is shown in the example for Meetings. The pages for the drop down menu content don't need to live in a parent folder but they are in a `meetings` folder just to keep things organised.
 
 ```md
 sidebar:
