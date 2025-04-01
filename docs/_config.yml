@@ -12,6 +12,6 @@ sidebar:
         - 2025-april
     - label: Resources
       children:
-        -articles
-        -software
+        - articles
+        - software
     - reading_group
