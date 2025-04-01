@@ -1,4 +1,0 @@
----
-id: acknowledgements
-title: Acknowledgements
----
