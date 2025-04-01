@@ -10,5 +10,8 @@ sidebar:
         - 2024-september
         - 2025-january
         - 2025-april
-    - resources
+    - label: Resources
+      children:
+        -articles
+        -software
     - reading_group
