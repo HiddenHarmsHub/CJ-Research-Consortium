@@ -1,5 +1,5 @@
 ---
-id: acknowledgements
+id: reading_group
 title: Reading Group
 ---
 
