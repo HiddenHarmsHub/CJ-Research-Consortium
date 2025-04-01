@@ -3,72 +3,40 @@ id: 2024-january
 title: January 2024
 ---
 
-# Comparative Judgement Users’ Day Meeting
+# The launch event of a new NCRM-sponsored Methods SIG
 
-**Friday 20 September 2024, 11am to 4pm, reception from 10am**
+**Loughborough University, Tue 16 Jan 2024, 10:30am to 4pm**
 
-**De Montford University, 1 Richmond street**  
-It’s the building with the red door, located on number 44 on this map (PDF).
-
-**Funded by the National Centre for Research Methods**
+**Talks, sandpits, networking**  
+Lunch provided, travel and caring funding availability  
+Sign up link: Comparative Judgement Users’ Day Meeting
 
 ## Agenda
 
-**10:00**  
+**10:30**  
 Arrival and coffee.
 
 **11:00**  
-Welcome, introductions, house keeping (Marie-Josée Bisson).
-
-**11:10**  
-**Talk 1**  
-Bradley-Terry applied to competitive surfing and MasterChef Australia.  
-Robin Hankin, University of Stirling.
+Welcome, introductions, overview of comparative judgement (Ian Jones).
 
 **11:30**  
-**Talk 2**  
-Comparative judgement, LLMs, and the necessity of human judges.  
-Ben Davies & Amy Peters, University of Southampton.
+Short talk (Rowland Seymour).
 
-**11:50**  
-**Talk 3**  
-Multi-dimensional “scores” – extending Bradley-Terry to allow for multiple aspects of items’ qualities and for different judges to value those aspects differently.  
-Dave Sirl, University of Nottingham.
+**11:45**  
+Short talk (Marie-Josée Bisson).
 
-**12:10**  
-Open discussion.  
-Possible focus: finding new applications of CJ, fitting models.
+**12:00**  
+Data sandpit (1 hour) using open-access comparative judgement data hosted in a GitHub repository. Attendees discuss hypotheses and research questions for investigating archived data.
 
-**12:30**  
+**13:00**  
 Lunch.
 
-**13:30**  
-**Talk 4**  
-Judging the same items with different criteria.  
-Depy Makri, Loughborough University.
+**14:00**  
+Structured discussion (1 hour) of focus or priorities for the initiation of the MSIG. Will include a discussion of developing existing online resources such as the GitHub repository and NCRM course, for the wider research community.
 
-**13:50**  
-**Talk 5**  
-Bad judges.  
-Brian Henderson & Chris Wheadon, No More Marking Ltd.
+**15:00**  
+Structured discussion of priorities for CJ research including the topic of funding and specific calls such as the ESRC pre-announcement for interdisciplinary projects.
 
-**14:20**  
-Open discussion.  
-Possible focus: reporting CJ research, responding to reviewers.
+**15:30**  
+Close and next steps, including invite to join an email list (Ian Jones).
 
-**15:20**  
-Bloomsbury methods research book (Ian Jones).
-
-**15:35**  
-CJ GitHub (Andy Gray).
-
-**15:50**  
-Close and next meeting (Rowland Seymour).
-
-**Afterwards**  
-Join us for drinks and food in Leicester.
-
-## Conveners
-Ian Jones, Loughborough University
-Marie-Josée Bisson, De Montfort University
-Rowland Seymour
