@@ -1,3 +1,9 @@
+---
+id: software
+title: Software
+---
+
+
 # Data Collection Software
 - [No More Marking](https://www.nomoremarking.com) A professional suite of tools for both collecting and analysing comparative judgement data. This is designed to fit into school level assessments, but the free account provides a great deal of felxibility.
 - [PsychoPy](https://psychopy.org) Free software for creating psychology experiments
