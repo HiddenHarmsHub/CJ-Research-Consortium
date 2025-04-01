@@ -1,3 +1,9 @@
+---
+id: articles
+title: Articles
+---
+
+
 ## 2024
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
