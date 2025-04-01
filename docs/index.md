@@ -10,6 +10,9 @@ This international group brings together researchers and practitioners from dive
 
 Join us for regular meetings, take part in our online reading group, access our comprehensive resource lists, and connect with a vibrant community committed to innovation and excellence in comparative judgement. Explore our site to learn more about our work and how you can get involved!
 
+## Joining the Group
+????
+
 ## What is Comparative Judgement
 Comparative judgment is a method used in assessment and evaluation to compare and rank different items or performances based on their perceived quality or merit. Instead of assigning absolute scores or grades to individual items, comparative judgment involves comparing pairs of items and determining which is better or of higher quality.
 
